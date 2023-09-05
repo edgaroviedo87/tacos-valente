@@ -107,10 +107,10 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     top: 0;
-    background: #009970;
+    background: #34872a;
   }
   #header.header-scrolled, #header .header-container {
-    background: #009970;
+    background: #34872a;
   }
   #header .logo {
     padding-left: 0;
